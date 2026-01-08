@@ -1,0 +1,12 @@
+# Local data directories created by start.sh / docker-compose
+etcd/
+mongodb/
+postgres/
+elasticsearch/
+kibana/
+redis/
+
+# Editor / OS noise
+.DS_Store
+.idea/
+.vscode/
